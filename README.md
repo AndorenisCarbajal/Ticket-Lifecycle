@@ -4,8 +4,10 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
+<h2>Description</h2>
+This outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system, osTicket. In this lab, we will use Azure VMS, Windows 10 /Servers, and we will create tickets as end users, observe their properties, then respond to them as help desk professionals and close them out. <br />
+  
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -25,22 +27,23 @@ This outlines the lifecycle of a ticket from intake to resolution within the ope
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+System is down (Intake): <br/>
+<img width="450" alt="1 System is Down (created the following Ticket as an end user)" src="https://github.com/user-attachments/assets/8d402122-1128-4aed-bfd4-6119a49c4c05" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As an end-user, I created the following ticket the entire mobile/online banking system is down.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img width="450" alt="2 Observing the Tickets properties" src="https://github.com/user-attachments/assets/bd8ae1ec-fc09-4013-9bee-b127babf42f6" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
