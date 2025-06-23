@@ -33,21 +33,50 @@ System is down (Intake): <br/>
 <img width="450" alt="1 System is Down (created the following Ticket as an end user)" src="https://github.com/user-attachments/assets/8d402122-1128-4aed-bfd4-6119a49c4c05" />
 </p>
 <p>
-As an end-user, I created the following ticket the entire mobile/online banking system is down.
+As an end-user, I created the following ticket: the entire mobile/online banking system is down.
 </p>
 <br />
 
 <p align="center">
+Observing the ticket's properties: <br/>
 <img width="450" alt="2 Observing the Tickets properties" src="https://github.com/user-attachments/assets/bd8ae1ec-fc09-4013-9bee-b127babf42f6" />
 </p>
 <p>
+Now, as a help desk agent (John Doe), we observe the ticket properties depending on priority, department,SLA or whose assigned to. 
+</p>
+<br />
 
+<p align="center">
+Set Properties to the ticket: <br/>
+<img width="450" alt="3 Setting properties to the Ticket" src="https://github.com/user-attachments/assets/ecb5204d-88c3-4503-acab-230f0326ada9" />
+</p>
+<p>
+Still as John Doe we will set properties to the ticket by updating the SLA to Sev-A (1hr, 24/7) and assigning it to the Online-banking team.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+communication: <br/>
+<img width="450" alt="4 Assigning Ticket To our Selfs As Jane to Complete" src="https://github.com/user-attachments/assets/0dae16c5-d9fc-4477-a97e-52bb6b013c06" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As Agent Jane Doe we made a slight change and assigned the ticket to ourselfs with a description.
 </p>
 <br />
+<p align="center">
+working the issue: <br/>
+<img width="450" alt="5 As Jane we determined the root cause" src="https://github.com/user-attachments/assets/810e561a-12d7-4b26-8086-2aef7a9e1519" />
+</p>
+<p>
+As Jane Doe we determined the root cause was related to the recent updates and we have taken the proper steps to get the online banking back and running.
+</p>
+<br />
+<p align="center">
+Resolution(Ticket closed): <br/>
+<img width="450" alt="6 Ticket resolved as Jane (Ticket closed)" src="https://github.com/user-attachments/assets/df0c8e54-75a0-4ef2-8c19-139e1d039ba1" />
+<p>
+Since the issue was resolved the last thing to do is close out the ticket as Agent Jane Doe.
+</p>
+</p>
+
+
